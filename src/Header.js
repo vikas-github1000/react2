@@ -5,7 +5,7 @@ const Header =() => {
     return(
         <header>
             <h1>
-                enter user
+                React App
             </h1>
         </header>
     )
