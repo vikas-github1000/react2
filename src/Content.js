@@ -22,12 +22,12 @@ const Content =() =>{
         <main>
 
                 <p onDoubleClick={handleClick}>
-                    hello { handleNameChange() }
+                    hello  { handleNameChange() }
                 </p>
                 
                 <form action="handleClick()">
                     <label>
-                    Enter Name
+                    React App
                     <input type="text" name="name" />
                     </label>
                     <input type="submit" value="Submit" />
